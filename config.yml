@@ -1,0 +1,7 @@
+logging:
+  level: INFO
+  loggers:
+    com.gm.timeTrackerV2: DEBUG
+
+template: Hello, %s!
+defaultName: Stranger
